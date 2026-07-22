@@ -1,0 +1,61 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Collections.Project2.Main",
+            "projectName": "WiproPBL-main_8053c31e"
+        },
+        {
+            "type": "java",
+            "name": "VideoLauncher",
+            "request": "launch",
+            "mainClass": "Oops_Inheritence.Project.VideoLauncher",
+            "projectName": "WiproPBL_87829c36"
+        },
+        {
+            "type": "java",
+            "name": "CharCheck",
+            "request": "launch",
+            "mainClass": "Java_Fundamentals.Flow_Controls.CharCheck",
+            "projectName": "WiproPBL_87829c36"
+        },
+        {
+            "type": "java",
+            "name": "AlphabetOrder",
+            "request": "launch",
+            "mainClass": "Java_Fundamentals.Flow_Controls.AlphabetOrder",
+            "projectName": "WiproPBL_87829c36"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "InterestPercentage",
+            "request": "launch",
+            "mainClass": "Java_Fundamentals.Flow_Controls.InterestPercentage",
+            "projectName": "WiproPBL_87829c36",
+            "args": [
+                "Male",
+                "20"
+            ]
+        },
+        {
+            "type": "java",
+            "name": "FileWordCount",
+            "request": "launch",
+            "mainClass": "IO_Streams.IO_Operations.FileWordCount",
+            "projectName": "WiproPBL_87829c36",
+            "args": [
+                "C:\\Users\\IDHI USE CHEYYI\\Desktop\\inputFile.txt",
+                "C:\\Users\\IDHI USE CHEYYI\\Desktop\\outputFile.txt"
+            ]
+        }
+    ]
+}
